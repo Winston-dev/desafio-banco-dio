@@ -1,4 +1,4 @@
-package br.com.banco.model;
+package br.com.banco;
 
 import java.util.List;
 

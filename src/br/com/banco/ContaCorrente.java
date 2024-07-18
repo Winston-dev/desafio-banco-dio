@@ -1,4 +1,4 @@
-package br.com.banco.model;
+package br.com.banco;
 
 public class ContaCorrente extends Conta{
     public ContaCorrente(Cliente cliente) {
